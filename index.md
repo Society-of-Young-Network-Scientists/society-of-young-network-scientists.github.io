@@ -15,9 +15,10 @@ An organization designed to support early-career network scientists as they purs
 
 - Chair: Dina Mistry
   - Post-Doc @ [the Institute for Disease Modeling](https://idmod.org/team/bio/185%20)
+  - [twitter](https://twitter.com/dinacmistry)
 - Outreach officer: Sam Rosenblatt
-  - 3rd year PhD @ University of Vermont
-  - [github](http://github.com/sfrosenb)
+  - 2nd year PhD @ University of Vermont, Vermont Complex Systems Center
+  - [twitter](https://twitter.com/sam_rosenbott)/[email](mailto:sfrosenb@uvm.edu)
 - Events officer: Tzu-Chi Yen
   - 2rd year PhD studying networks and topology with [Dan Larremore](http://larremorelab.github.io) and [Joshua Grochow](https://www.cs.colorado.edu/~jgrochow/) @ University of Colorado, Boulder
   - [website](https://junipertcy.info/) / [email](mailto:tzuchi.yen@colorado.edu) / [github](http://github.com/junipertcy)
@@ -26,9 +27,10 @@ An organization designed to support early-career network scientists as they purs
   - [website](https://hneutr.github.io/) / [email](mailto:hunter.wapman@gmail.com) / [github](http://github.com/hneutr)
 - Membership Officer: Jordan Clark
   - Masters student @ Northeastern University
+  - [twitter](https://twitter.com/Prodigalson2025)
 - Outgoing Chair: Brennan Klein
   - 5th year PhD @ Northeastern University
-  - [website](https://www.jkbrennan.com/) / [email](mailto:brennanjamesklein@gmail.com) / [github](http://github.com/jkbren)
+  - [website](https://www.jkbrennan.com/) / [email](mailto:brennanjamesklein@gmail.com) / [github](http://github.com/jkbren) / [twitter](https://twitter.com/jkbren)
 
 ![brennan](/assets/img/brennan2019.jpeg)
 
