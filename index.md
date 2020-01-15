@@ -9,7 +9,7 @@ An organization designed to support early-career network scientists as they purs
 # Links, etc:
 
 - [twitter](https://twitter.com/official_SYNS?s=20)
-- [slack](society-yns.slack.com)
+- [slack](https://society-yns.slack.com)
 
 # Board
 
