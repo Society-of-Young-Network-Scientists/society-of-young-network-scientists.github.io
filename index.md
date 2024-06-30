@@ -22,9 +22,6 @@ An organization designed to support early-career network scientists as they purs
 - Events officer: Tzu-Chi Yen
   - 2rd year PhD studying networks and topology with [Dan Larremore](http://larremorelab.github.io) and [Joshua Grochow](https://www.cs.colorado.edu/~jgrochow/) @ University of Colorado, Boulder
   - [website](https://junipertcy.info/) / [email](mailto:tzuchi.yen@colorado.edu) / [github](http://github.com/junipertcy)
-- Membership Officer: K. Hunter Wapman
-  - 3rd year PhD studying computational social science with [Dan Larremore](http://larremorelab.github.io) @ University of Colorado, Boulder
-  - [website](https://hneutr.github.io/) / [email](mailto:hunter.wapman@gmail.com) / [github](http://github.com/hneutr)
 - Membership Officer: Jordan Clark
   - Masters student @ Northeastern University
   - [twitter](https://twitter.com/Prodigalson2025)
