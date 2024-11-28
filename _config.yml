@@ -1,11 +1,7 @@
 title: the Society of Young Network Scientists (SYNS)
 logo: /assets/img/logo.jpg
 description: a society for the development of early-career network scientists
-links: 
-  - name: SYNS slack
-    url: "https://society-yns.slack.com"
-  - name: mailing list
-    url: "https://groups.google.com/forum/#!forum/syns-colorado"
+links:
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
